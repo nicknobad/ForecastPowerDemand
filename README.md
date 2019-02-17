@@ -8,7 +8,8 @@ Prerequisites:
 
 
  At the moment the script works with Initial Demand Outturn. To train on the Final Demand Outturn data you have to download it
- Steps:
+ 
+ Steps: 
  
  0. Inputs
  1. FUN for holidays, doy, moy, dow
