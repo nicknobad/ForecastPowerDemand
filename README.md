@@ -1,4 +1,4 @@
-# ForecastPowerDemand
+# Forecast Power Demand
 
 Work in progress in terms of splitting the big script into modules and making it more functional
 
