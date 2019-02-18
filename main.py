@@ -70,7 +70,7 @@ class Cal_EngWales(AbstractHolidayCalendar):
                                                 ################
 try: # read configs
     config = configparser.RawConfigParser()
-    config.read_file(open(r'config_FctDmd.cfg'))
+    config.read_file(open(r'config.cfg'))
 except Exception as e:
     print( 'ERROR: {}'.format(str(e)) )
     exit()
