@@ -1,4 +1,4 @@
-# Half-hourly Forecast Power Demand in UK for the next 2 weeks
+# Half-hourly Forecast Power Demand in UK for the next 2 weeks using the scikit-lean ML models 
 
 Work in progress in terms of splitting the big script into modules and making it more functional
 
