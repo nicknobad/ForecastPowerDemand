@@ -7,7 +7,7 @@ Prerequisites:
 2. python packages
 
 
- At the moment the script works with Initial Demand Outturn. To train on the Final Demand Outturn data you have to download it
+ At the moment the script works with Initial Demand Outturn. To train on the Final Demand Outturn data you have to download the historical datasets
  
  Steps: 
  
