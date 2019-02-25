@@ -1,4 +1,4 @@
-# Forecast Power Demand
+# Half-hourly Forecast Power Demand for the next 2 weeks
 
 Work in progress in terms of splitting the big script into modules and making it more functional
 
